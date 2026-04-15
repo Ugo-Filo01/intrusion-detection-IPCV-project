@@ -191,3 +191,8 @@ Each frame in `analysis_frames` saves 10 intermediate images:
 | `08_fg_person.png` | PASS 1 intermediate (all blobs after person morphology) |
 | `09_fg_objects.png` | PASS 2 output — ADDED object candidates |
 | `10_result.png` | Final annotated frame |
+
+
+## Demo Video
+
+![Demo](./assets/debug_labeled_contours.mp4)
