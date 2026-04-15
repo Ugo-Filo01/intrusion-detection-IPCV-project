@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Generated output (re-run main.py to regenerate)
+intrusion_detection_code/output/
+
+# Backup files
+intrusion_detection_code/main_backup_pre_fix.py
+
+# macOS
+.DS_Store
