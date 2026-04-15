@@ -20,6 +20,12 @@ All detection is based on background subtraction, morphological processing, and 
 
 ---
 
+## Demo
+
+![Detection Demo](intrusion_detection_code/demo.gif)
+
+---
+
 ## Algorithm Architecture
 
 The pipeline runs three parallel detection passes on every frame:
